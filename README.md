@@ -19,7 +19,12 @@ Supports Node, AMD, browser global via UMD.
 ```js
 var cssSafe = require('css-safe');
 
-var safe = cssSafe('Red, and blue.');
+var safe;
+
+safe = cssSafe('To do');
+// 'to-do'
+
+safe = cssSafe('Red, and blue.');
 // 'red__002c-and-blue__0021'
 ```
 
