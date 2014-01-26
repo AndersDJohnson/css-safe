@@ -1,6 +1,6 @@
 # css-safe
 
-Make string safe for CSS.
+Make strings safe for CSS.
 
 ## Install
 
