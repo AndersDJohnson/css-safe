@@ -2,7 +2,7 @@
 
 Make strings safe for CSS.
 
-Transform to lowercase, replace spaces with dashes, and replace all characters but a-z with their hexadecimal Unicode index padded to 4 characters.
+Transform to lowercase, replace spaces with dashes, and replace all other characters but a-z with their hexadecimal Unicode index padded to 4 characters.
 
 ## Install
 
