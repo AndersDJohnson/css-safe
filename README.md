@@ -2,7 +2,7 @@
 
 Make string safe for CSS.
 
-# Install
+## Install
 
 via npm:
 
@@ -12,7 +12,7 @@ $ npm install --save css-safe
 
 Supports Node, AMD, browser global via UMD.
 
-# Use
+## Use
 
 ```js
 var cssSafe = require('css-safe');
