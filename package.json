@@ -1,6 +1,6 @@
 {
   "name": "css-safe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make strings safe for CSS.",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,10 @@
     "safe",
     "string"
   ],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/AndersDJohnson/css-safe.git"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/AndersDJohnson/css-safe.git"
   }
 }
