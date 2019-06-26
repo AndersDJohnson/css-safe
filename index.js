@@ -2,7 +2,7 @@
   var moduleName = 'cssSafe';
   if (typeof define === 'function' && define.amd) {
     define([], function () {
-        return (root[moduleName] = factory(b));
+        return (root[moduleName] = factory());
     });
   } else if (typeof exports === 'object') {
     module.exports = factory();
